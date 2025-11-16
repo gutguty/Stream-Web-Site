@@ -31,16 +31,16 @@ npm run preview
 ## Скриншоты
 
 ### Hero-секция
-![Hero-секция](/screenshots/hero.png)
+![Hero-секция](/public/screenshots/hero.png)
 
 ### Категории контента
-![Категории](/screenshots/categories.png)
+![Категории](/public/screenshots/categories.png)
 
 ### Описание фильма/сериала
-![Описание контента](/screenshots/description_movie.png)
+![Описание контента](/public/screenshots/description_movie.png)
 
 ### Цены и подписки
-![Тарифы](/screenshots/prices.png)
+![Тарифы](/public/screenshots/prices.png)
 
 ### Форма обратной связи
 ![Форма](/screenshots/form.png)
