@@ -43,4 +43,5 @@ npm run preview
 ![Тарифы](/public/screenshots/prices.png)
 
 ### Форма обратной связи
-![Форма](/screenshots/form.png)
+![Форма](/public/screenshots/form.png)
+
